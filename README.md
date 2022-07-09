@@ -1,14 +1,15 @@
 # Uber-Clone App
 
 ## Techs Used
+
 - Expo
-- React Native 
+- React Native
 - Tailwind CSS
 - Redux
 - [Google Cloud Services](https://cloud.google.com/)
-    - Distance Matrix API
-    - Places API
-    - Directions API
+  - Distance Matrix API
+  - Places API
+  - Directions API
 
 ## Installation
 
@@ -17,11 +18,13 @@
 - Install the [expo-cli](https://docs.expo.dev/) tools
 
 ```bash
-  cd uber-clone && npm install
+  cd ProjectFolder && npm install
 ```
+
 ```bash
   expo start
 ```
+
 - Scan the QR code from the webpage and it should open the Expo Go app
 
 ## Features
@@ -29,4 +32,3 @@
 - Google maps autocomplete places search
 - Ride price and surge
 - Distance matrix measurement
-
